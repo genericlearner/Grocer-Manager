@@ -1,1 +1,1 @@
-# Grocer-Manager
+# Grocery-Manager
