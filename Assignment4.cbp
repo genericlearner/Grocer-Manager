@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assignment4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Assignment4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Assignment4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Beef.cpp" />
+		<Unit filename="Beef.h" />
+		<Unit filename="Cheese.cpp" />
+		<Unit filename="Cheese.h" />
+		<Unit filename="Chicken.cpp" />
+		<Unit filename="Chicken.h" />
+		<Unit filename="CustomerOrder.cpp" />
+		<Unit filename="CustomerOrder.h" />
+		<Unit filename="Dairy.cpp" />
+		<Unit filename="Dairy.h" />
+		<Unit filename="Eggs.cpp" />
+		<Unit filename="Eggs.h" />
+		<Unit filename="Fish.cpp" />
+		<Unit filename="Fish.h" />
+		<Unit filename="Grocery.cpp" />
+		<Unit filename="Grocery.h" />
+		<Unit filename="GroceryManager.cpp" />
+		<Unit filename="GroceryManager.h" />
+		<Unit filename="Haddock.cpp" />
+		<Unit filename="Haddock.h" />
+		<Unit filename="Meat.cpp" />
+		<Unit filename="Meat.h" />
+		<Unit filename="Milk.cpp" />
+		<Unit filename="Milk.h" />
+		<Unit filename="Orange.cpp" />
+		<Unit filename="Orange.h" />
+		<Unit filename="Pantry.cpp" />
+		<Unit filename="Pantry.h" />
+		<Unit filename="Salmon.cpp" />
+		<Unit filename="Salmon.h" />
+		<Unit filename="Seabass.cpp" />
+		<Unit filename="Seabass.h" />
+		<Unit filename="Tomato.cpp" />
+		<Unit filename="Tomato.h" />
+		<Unit filename="Vegetable&amp;fruit.cpp" />
+		<Unit filename="Vegetable&amp;fruit.h" />
+		<Unit filename="Yogurt.cpp" />
+		<Unit filename="Yogurt.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
